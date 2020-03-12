@@ -1,10 +1,10 @@
 package com.kevin.task.autoconfigure;
 
 import lombok.Data;
-import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
+import org.springframework.boot.context.properties.ConfigurationProperties;
 
 @Data
-@ConditionalOnProperty(prefix = "elastic.job.zk")
+@ConfigurationProperties(prefix = "elastic.job.zk")
 public class JobZookeeperProperties {
 
     private String namespace;
