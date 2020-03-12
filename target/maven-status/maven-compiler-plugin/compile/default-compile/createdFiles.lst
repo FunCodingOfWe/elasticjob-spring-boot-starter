@@ -1,0 +1,6 @@
+com\kevin\task\autoconfigure\JobParserAutoConfiguration.class
+com\kevin\task\enums\ElasticJobTypeEnum.class
+com\kevin\task\parser\ElasticJobConfParser.class
+com\kevin\task\annotation\ElasticJobConfig.class
+com\kevin\task\annotation\EnableElasticJob.class
+com\kevin\task\autoconfigure\JobZookeeperProperties.class

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25c2e65c-80b3-4392-a38d-f1dd65fdb970" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/kevin/task/autoconfigure/JobParserAutoConfiguration.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Z0eBXeu2GqTsY1R1XQIiyjZtLl" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25c2e65c-80b3-4392-a38d-f1dd65fdb970" name="Default Changelist" comment="" />
+      <created>1583980303962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583980303962</updated>
+      <workItem from="1583980306807" duration="4346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1018" y="403" key="#Inspections" timestamp="1583981608362">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state x="1018" y="403" key="#Inspections/0.0.1834.1080@0.0.1834.1080" timestamp="1583981608362" />
+    <state x="509" y="201" key="#Project_Structure" timestamp="1583984040654">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state x="509" y="201" key="#Project_Structure/0.0.1834.1080@0.0.1834.1080" timestamp="1583984040654" />
+    <state x="722" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1583981374300">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state x="722" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1834.1080@0.0.1834.1080" timestamp="1583981374300" />
+    <state x="447" y="198" key="Maven.ArtifactSearchDialog" timestamp="1583981865147">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state x="447" y="198" key="Maven.ArtifactSearchDialog/0.0.1834.1080@0.0.1834.1080" timestamp="1583981865147" />
+    <state x="370" y="251" key="new project wizard" timestamp="1583984328400">
+      <screen x="0" y="0" width="1834" height="1080" />
+    </state>
+    <state x="370" y="251" key="new project wizard/0.0.1834.1080@0.0.1834.1080" timestamp="1583984328400" />
+  </component>
+</project>
