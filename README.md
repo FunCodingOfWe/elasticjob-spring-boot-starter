@@ -53,5 +53,15 @@ public class MySimpleJob implements SimpleJob {
 }
 
 ```
+- 配置zk地址和namespace
+
+```
+
+elastic:
+  job:
+    zk:
+      namespace: elastic-job
+      serverLists: 127.0.0.1:2181
+```
 
 具体使用样例请看demo
